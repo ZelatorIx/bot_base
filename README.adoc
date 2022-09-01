@@ -1,0 +1,9 @@
+Add to `config.json` :
+[source, json]
+----
+{
+  "token": "token",
+  "clientId": "clientId",
+  "guildId": "guildId"
+}
+----
