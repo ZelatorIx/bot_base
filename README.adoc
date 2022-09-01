@@ -1,4 +1,6 @@
-Add to `config.json` :
+. Create directory `config`
+. Create file `config.json`
+. In this file, put these following lines :
 [source, json]
 ----
 {
