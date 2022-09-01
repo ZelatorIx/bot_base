@@ -1,5 +1,5 @@
 . Create directory `config`
-. Create file `config.json`
+. Create file `config.json` in this folder
 . In this file, put these following lines :
 [source, json]
 ----
